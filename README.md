@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Java & Android App**
 
-- 📫 How to reach me **dwikariswanda@gmail.com**
+- 📫 How to reach me **kiwaartup.dev@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
